@@ -1,2 +1,1 @@
-# Palacios
-Repositorio de prueba
+Este proyecto es una prueba es sobre como puedo clonar mi repositorio 
